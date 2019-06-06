@@ -1,0 +1,48 @@
+{
+	"added_words":
+	[
+		"succinic",
+		"umami",
+		"inosinate",
+		"guanylate",
+		"leucine",
+		"valine"
+	],
+	"always_show_minimap_viewport": true,
+	"auto_find_in_selection": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+	"file_exclude_patterns":
+	[
+		".DS_Store"
+	],
+	"find_selected_text": true,
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_subsequent_lines": true,
+	"material_theme_accent_purple": true,
+	"material_theme_accent_scrollbars": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"mdpopups.sublime_user_lang_map":
+	{
+	},
+	"mdpopups.use_sublime_highlighter": true,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": true,
+	"remember_full_screen": true,
+	"remember_open_files": true,
+	"scroll_past_end": true,
+	"theme": "Material-Theme-Palenight.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"ui_scale": 0,
+	"word_wrap": true
+}
