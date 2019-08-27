@@ -1,0 +1,14 @@
+{
+	"prog": "terminus",
+	"r":
+	{
+		"bracketed_paste_mode": true,
+		"prog": "rstudio"
+	},
+	"rmd":
+	{
+		"bracketed_paste_mode": true,
+		"prog": "rstudio"
+	},
+	"stata": "terminus"
+}
