@@ -1,5 +1,5 @@
 {
 	"theme": "mathias",
     "256color": true,
-    "uni_term": "xterm-256color"
+    "unix_term": "xterm-256color"
 }
