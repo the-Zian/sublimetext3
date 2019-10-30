@@ -5,5 +5,12 @@
     { "keys": ["super+option+i"], "command": "insert", "args": {"characters": "%in%"}},
     // Comment headers
     { "keys": ["super+h","r"], "command": "insert", "args": {"characters": "############################################"}},
-    { "keys": ["super+h","s"], "command": "insert", "args": {"characters": "********************************************"}}
+    { "keys": ["super+h","s"], "command": "insert", "args": {"characters": "********************************************"}},
+
+    // Unbind stupid ass Stata editor keybindings
+    { "keys": ["$"], "command": "insert", "args": {"characters": "$"}, "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "source.stata" }
+        ]
+    }
 ]
